@@ -1,6 +1,7 @@
 # Hyewon_Kim_EX4
 
  Keyboard press == Show "corresponding alphabet"
+ 26 alphabets from A to Z.
  
  Example) press 'A' screen show A image.
  
