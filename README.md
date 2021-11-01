@@ -1,6 +1,7 @@
 # Hyewon_Kim_EX4
 
  Keyboard press == Show "corresponding alphabet"
+ 
  Example) press 'A' screen show A image.
  
  All alphabets are made of squares (no curves).
